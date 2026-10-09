@@ -19,5 +19,6 @@ public:
 
 private:
     Ui::MainWindow *ui;
+    void buildWorkspace();
 };
 #endif // MAINWINDOW_H
